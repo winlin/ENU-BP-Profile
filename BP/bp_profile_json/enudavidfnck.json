@@ -1,0 +1,22 @@
+{
+  "nickname": "ENU dApp Fund",
+  "account_name": "enudavidfnck",
+  "public_key": "ENU73mvGPemMULvpPKief1hA9ppXWtRycK92W8DM2KaL4rwSs2kHw",
+  "introduce": {
+    "en": "Gathering the best developers of dApp and attract more people join Enumivo's community.",
+    "zh": "聚集优秀的 dApp 开发者们，用好应用吸引更多加入 Enumivo 社区"
+  },
+  "logo": "logo_enudf.png",
+  "website": "http://www.enudf.com",
+  "email": "davidfnck@gmail.com",
+  "social_network": {
+    "steemit": "https://steemit.com/@davidfnck",
+    "twitter": "https://twitter.com/davidfnckCN",
+    "github": "https://github.com/davidfnck",
+    "telegram": "https://t.me/davidfnck"
+  },
+  "location": {
+    "en": "Singapore",
+    "zh": "新加坡"
+  }
+}
