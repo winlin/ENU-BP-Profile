@@ -1,0 +1,20 @@
+{
+  "nickname": "ENU Ironman",
+  "account_name": "ansenironman",
+  "public_key": "ENU75r4ShuQ3KQfQYSPmkGX1fwH1LzLoUuumXAth7AVMRL5qXxrZ2",
+  "introduce": {
+    "en": "Ironman is dedicated to develop a secure open decentralized signature application, which promots the dapps to blossom.",
+    "zh": "Ironman致力于开发安全开放的去中心化签名应用，助力dapp生态繁荣。"
+  },
+  "logo": "ansenironman.png",
+  "website": "http://enuironman.com",
+  "email": "yyr2046@126.com",
+  "social_network": {
+    "github": "https://github.com/AnsenYu",
+    "telegram": "https://t.me/ansen9"
+  },
+  "location": {
+    "en": "China",
+    "zh": "中国"
+  }
+}
