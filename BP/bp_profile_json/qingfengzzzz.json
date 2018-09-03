@@ -1,0 +1,21 @@
+{
+  "nickname": "QingFeng Happy",
+  "account_name": "qingfengzzzz",
+  "public_key": "ENU4waNize5XUHLserrLWLdYLQPfqJzD4uu2BFZsJX2ehuCDXMUuq",
+  "introduce": {
+    "en": "Eating, drinking, and drinking in the Beijing group, UBI's heavy practitioners.",
+    "zh": "吃喝玩乐在北京小组,UBI的重度实践者"
+  },
+  "logo": "logo_qingfengzzzz.png",
+  "website": "https://www.douban.com/group/beijing/",
+  "email": "qingfenghello@gmail.com",
+  "social_network": {
+    "twitter": "https://twitter.com/qingfeng",
+    "github": "https://github.com/qingfeng",
+    "telegram": "https://t.me/qingfengcloud"
+  },
+  "location": {
+    "en": "China",
+    "zh": "中国"
+  }
+}
