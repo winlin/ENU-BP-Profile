@@ -1,0 +1,43 @@
+{
+  "producer_account_name": "enusmallfish",
+  "producer_public_key": "ENU7YmRSdUQ7cQTWSmsHCEUd95YbA2HxREXNKyExsHzuRkxNTRyzS",
+  "org": {
+    "candidate_name": "enusmallfish",
+    "website": "https://enu.one",
+    "ownership_disclosure": "https://enumivo.com/topic/637-enutogether-an-enthusiastic-block-producer-for-you/",
+    "code_of_conduct": "https://enu.one, https://zhandui.io",
+    "email": "fish24k@163.com",
+    "branding": {
+      "logo_256": "",
+      "logo_1024": "",
+      "logo_svg": ""
+    },
+    "location": {
+      "name": "ShangHai",
+      "country": "CHINA",
+      "latitude": 31.23,
+      "longitude": 121.47
+    },
+    "social": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/fish24k",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "fish",
+      "wechat": "fish24k"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "BJ",
+        "country": "CHINA",
+        "latitude": 31.23,
+        "longitude": 121.47
+      }
+    }
+  ]
+}
