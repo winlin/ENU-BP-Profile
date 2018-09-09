@@ -1,0 +1,20 @@
+{
+  "nickname": "ENU Tyler",
+  "account_name": "enumivotyler",
+  "public_key": "ENU65Bssb83UwJMBsbumnvU5BR274YL3GstZddzycewLLo9a114qS",
+  "introduce": {
+    "en": "Enumivotyler believes that Enumivo, along with UBI, will have a bright future.",
+    "zh": "Enumivotyler相信牛油果和UBI有光明的未来。"
+  },
+  "logo": "enumivotyler.png",
+  "website": "",
+  "email": "tyler@bixin.com",
+  "social_network": {
+    "github": "",
+    "telegram": ""
+  },
+  "location": {
+    "en": "Singapore",
+    "zh": "新加坡"
+  }
+}
